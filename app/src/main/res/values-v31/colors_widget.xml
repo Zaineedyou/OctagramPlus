@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Widget Specific Colors - Material You Dynamic (API 31+) -->
+    <color name="widget_background">@color/md_theme_dark_background</color>
+    <color name="widget_on_background">@color/md_theme_light_onSurface</color>
+</resources>

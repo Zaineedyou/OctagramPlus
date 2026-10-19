@@ -1,0 +1,35 @@
+Octagram+
+Copyright (C) 2026 Zaineedyou
+
+This project is distributed under the GNU Affero General Public License
+version 3.0 (AGPL-3.0), as provided in LICENSE.
+
+Octagram+ is an Android music player maintained by Zaineedyou, Indonesia.
+Project site: https://zaineedyou.my.id
+GitHub profile: https://github.com/Zaineedyou
+
+This notice does not replace the full license text. See LICENSE for the
+complete AGPL-3.0 terms, including source-code and attribution requirements.
+
+THIRD-PARTY SOFTWARE
+--------------------
+Octagram+ includes or depends on third-party open-source libraries,
+frameworks, services, and adapted community projects. Each third-party
+component remains available under its own applicable license. Their original
+copyright notices and license files must be preserved when redistributing
+those components. In particular, review the licenses of AndroidX, Jetpack
+Compose, Material 3, Coil, Retrofit, Media3/ExoPlayer, NewPipe Extractor,
+Room, Hilt, Ktor/HTTP dependencies, jaudiotagger, and the upstream projects
+acknowledged in README.md.
+
+BRANDING
+--------
+The Octagram+ name, logo, application icon, visual identity, screenshots,
+and promotional artwork identify this project. Forks must not imply that they
+are the official Octagram+ distribution or that Zaineedyou endorses them.
+
+CONTRIBUTIONS
+-------------
+Unless a contributor states otherwise at the time of contribution, each
+contribution intentionally submitted for inclusion in Octagram+ is offered
+under the same AGPL-3.0 terms as the project.
